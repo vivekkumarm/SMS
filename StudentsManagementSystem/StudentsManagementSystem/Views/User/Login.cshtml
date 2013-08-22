@@ -15,7 +15,7 @@
 
 @using (Html.BeginForm())
 {
-        
+        @Html.ValidationSummary();
     @Html.LabelFor(u=>u.UserName)
     @Html.TextBoxFor(u=>u.UserName)
     @Html.ValidationMessageFor(u=>u.UserName)
