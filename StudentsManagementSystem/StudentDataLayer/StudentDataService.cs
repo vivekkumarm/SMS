@@ -428,7 +428,7 @@ namespace DataService
                     sqlcmd.Parameters.Add(new SqlParameter("@roll_number", rollNumber));
                     sqlcmd.Parameters.Add(new SqlParameter("@modified_by", 1));
                     sqlcmd.ExecuteNonQuery();
-                    sqlcon.Close();
+                    //sqlcon.Close();
                 }
             }
             return sMarkDelete;

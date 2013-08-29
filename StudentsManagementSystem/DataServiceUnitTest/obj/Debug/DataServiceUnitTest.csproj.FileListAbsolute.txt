@@ -87,3 +87,15 @@ D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.
 \\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.csprojResolveAssemblyReference.cache
 \\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.dll
 \\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.pdb
+D:\SMS\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll.config
+D:\SMS\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll
+D:\SMS\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.pdb
+D:\SMS\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll.CodeAnalysisLog.xml
+D:\SMS\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll.lastcodeanalysissucceeded
+D:\SMS\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\StudentDataLayer.dll
+D:\SMS\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\StudentsBO.dll
+D:\SMS\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\StudentDataLayer.pdb
+D:\SMS\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\StudentsBO.pdb
+D:\SMS\StudentsManagementSystem\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.csprojResolveAssemblyReference.cache
+D:\SMS\StudentsManagementSystem\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.dll
+D:\SMS\StudentsManagementSystem\DataServiceUnitTest\obj\Debug\DataServiceUnitTest.pdb

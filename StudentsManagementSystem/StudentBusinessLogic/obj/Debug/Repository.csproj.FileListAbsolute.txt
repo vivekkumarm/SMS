@@ -79,3 +79,14 @@ D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.
 \\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\obj\Debug\Repository.csprojResolveAssemblyReference.cache
 \\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.dll
 \\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.pdb
+D:\SMS\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.dll
+D:\SMS\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.pdb
+D:\SMS\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentDataLayer.dll
+D:\SMS\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentsBO.dll
+D:\SMS\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentDataLayer.pdb
+D:\SMS\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentsBO.pdb
+D:\SMS\StudentsManagementSystem\StudentBusinessLogic\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\SMS\StudentsManagementSystem\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.dll
+D:\SMS\StudentsManagementSystem\StudentBusinessLogic\obj\Debug\StudentBusinessLogic.pdb
+D:\SMS\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.dll.CodeAnalysisLog.xml
+D:\SMS\StudentsManagementSystem\StudentBusinessLogic\bin\Debug\StudentBusinessLogic.dll.lastcodeanalysissucceeded

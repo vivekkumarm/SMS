@@ -94,3 +94,17 @@ D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.
 \\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\RepositoryUnitTest\obj\Debug\RepositoryUnitTest.csprojResolveAssemblyReference.cache
 \\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\RepositoryUnitTest\obj\Debug\RepositoryUnitTest.dll
 \\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\RepositoryUnitTest\obj\Debug\RepositoryUnitTest.pdb
+D:\SMS\StudentsManagementSystem\RepositoryUnitTest\bin\Debug\RepositoryUnitTest.dll.config
+D:\SMS\StudentsManagementSystem\RepositoryUnitTest\bin\Debug\RepositoryUnitTest.dll
+D:\SMS\StudentsManagementSystem\RepositoryUnitTest\bin\Debug\RepositoryUnitTest.pdb
+D:\SMS\StudentsManagementSystem\RepositoryUnitTest\bin\Debug\RepositoryUnitTest.dll.CodeAnalysisLog.xml
+D:\SMS\StudentsManagementSystem\RepositoryUnitTest\bin\Debug\RepositoryUnitTest.dll.lastcodeanalysissucceeded
+D:\SMS\StudentsManagementSystem\RepositoryUnitTest\bin\Debug\StudentBusinessLogic.dll
+D:\SMS\StudentsManagementSystem\RepositoryUnitTest\bin\Debug\StudentsBO.dll
+D:\SMS\StudentsManagementSystem\RepositoryUnitTest\bin\Debug\StudentDataLayer.dll
+D:\SMS\StudentsManagementSystem\RepositoryUnitTest\bin\Debug\StudentBusinessLogic.pdb
+D:\SMS\StudentsManagementSystem\RepositoryUnitTest\bin\Debug\StudentsBO.pdb
+D:\SMS\StudentsManagementSystem\RepositoryUnitTest\bin\Debug\StudentDataLayer.pdb
+D:\SMS\StudentsManagementSystem\RepositoryUnitTest\obj\Debug\RepositoryUnitTest.csprojResolveAssemblyReference.cache
+D:\SMS\StudentsManagementSystem\RepositoryUnitTest\obj\Debug\RepositoryUnitTest.dll
+D:\SMS\StudentsManagementSystem\RepositoryUnitTest\obj\Debug\RepositoryUnitTest.pdb

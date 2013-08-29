@@ -21,3 +21,9 @@ D:\VisualStudio\StudentsManagementSystem 01.08.2013\StudentsManagementSystem 01.
 \\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\Common\bin\Debug\Common.pdb
 \\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\Common\obj\Debug\Common.dll
 \\dbbackup\Freshers\StudentManagementSystem\Code\02.08.2013 Latest\StudentsManagementSystem 02.8.2013\Common\obj\Debug\Common.pdb
+D:\SMS\StudentsManagementSystem\Common\bin\Debug\Common.dll
+D:\SMS\StudentsManagementSystem\Common\bin\Debug\Common.pdb
+D:\SMS\StudentsManagementSystem\Common\obj\Debug\Common.dll
+D:\SMS\StudentsManagementSystem\Common\obj\Debug\Common.pdb
+D:\SMS\StudentsManagementSystem\Common\bin\Debug\Common.dll.CodeAnalysisLog.xml
+D:\SMS\StudentsManagementSystem\Common\bin\Debug\Common.dll.lastcodeanalysissucceeded
