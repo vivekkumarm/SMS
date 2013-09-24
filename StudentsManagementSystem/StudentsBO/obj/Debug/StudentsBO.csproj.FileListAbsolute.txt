@@ -36,5 +36,4 @@ D:\SMS\StudentsManagementSystem\StudentsBO\bin\Debug\StudentsBO.dll
 D:\SMS\StudentsManagementSystem\StudentsBO\bin\Debug\StudentsBO.pdb
 D:\SMS\StudentsManagementSystem\StudentsBO\obj\Debug\StudentsBO.dll
 D:\SMS\StudentsManagementSystem\StudentsBO\obj\Debug\StudentsBO.pdb
-D:\SMS\StudentsManagementSystem\StudentsBO\bin\Debug\StudentsBO.dll.CodeAnalysisLog.xml
-D:\SMS\StudentsManagementSystem\StudentsBO\bin\Debug\StudentsBO.dll.lastcodeanalysissucceeded
+D:\SMS\StudentsManagementSystem\StudentsBO\obj\Debug\StudentsBO.csprojResolveAssemblyReference.cache

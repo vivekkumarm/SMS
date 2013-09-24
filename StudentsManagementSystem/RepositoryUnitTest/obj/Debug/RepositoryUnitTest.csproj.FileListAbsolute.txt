@@ -97,8 +97,6 @@ D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.
 D:\SMS\StudentsManagementSystem\RepositoryUnitTest\bin\Debug\RepositoryUnitTest.dll.config
 D:\SMS\StudentsManagementSystem\RepositoryUnitTest\bin\Debug\RepositoryUnitTest.dll
 D:\SMS\StudentsManagementSystem\RepositoryUnitTest\bin\Debug\RepositoryUnitTest.pdb
-D:\SMS\StudentsManagementSystem\RepositoryUnitTest\bin\Debug\RepositoryUnitTest.dll.CodeAnalysisLog.xml
-D:\SMS\StudentsManagementSystem\RepositoryUnitTest\bin\Debug\RepositoryUnitTest.dll.lastcodeanalysissucceeded
 D:\SMS\StudentsManagementSystem\RepositoryUnitTest\bin\Debug\StudentBusinessLogic.dll
 D:\SMS\StudentsManagementSystem\RepositoryUnitTest\bin\Debug\StudentsBO.dll
 D:\SMS\StudentsManagementSystem\RepositoryUnitTest\bin\Debug\StudentDataLayer.dll

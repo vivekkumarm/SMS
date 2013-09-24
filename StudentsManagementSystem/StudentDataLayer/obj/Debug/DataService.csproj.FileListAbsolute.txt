@@ -88,5 +88,3 @@ D:\SMS\StudentsManagementSystem\StudentDataLayer\bin\Debug\StudentsBO.pdb
 D:\SMS\StudentsManagementSystem\StudentDataLayer\obj\Debug\DataService.csprojResolveAssemblyReference.cache
 D:\SMS\StudentsManagementSystem\StudentDataLayer\obj\Debug\StudentDataLayer.dll
 D:\SMS\StudentsManagementSystem\StudentDataLayer\obj\Debug\StudentDataLayer.pdb
-D:\SMS\StudentsManagementSystem\StudentDataLayer\bin\Debug\StudentDataLayer.dll.CodeAnalysisLog.xml
-D:\SMS\StudentsManagementSystem\StudentDataLayer\bin\Debug\StudentDataLayer.dll.lastcodeanalysissucceeded

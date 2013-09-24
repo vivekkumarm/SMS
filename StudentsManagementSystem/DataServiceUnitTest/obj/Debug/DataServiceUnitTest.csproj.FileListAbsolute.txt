@@ -90,8 +90,6 @@ D:\VisualStudio\StudentsManagementSystem 02.08.2013\StudentsManagementSystem 02.
 D:\SMS\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll.config
 D:\SMS\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll
 D:\SMS\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.pdb
-D:\SMS\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll.CodeAnalysisLog.xml
-D:\SMS\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\DataServiceUnitTest.dll.lastcodeanalysissucceeded
 D:\SMS\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\StudentDataLayer.dll
 D:\SMS\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\StudentsBO.dll
 D:\SMS\StudentsManagementSystem\DataServiceUnitTest\bin\Debug\StudentDataLayer.pdb

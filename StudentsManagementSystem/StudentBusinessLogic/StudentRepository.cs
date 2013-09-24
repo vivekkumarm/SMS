@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using StudentsBO;
 using DataService;
 using StudentsBO.DataSeachResults;
+
 #endregion
 
 #region StudentRepository Class
@@ -11,6 +12,8 @@ namespace Repository
     public class StudentRepository
     {
         StudentDataService studentDataService = new StudentDataService();
+            
+
 
         #region AddStudent
         //Created by Prasana on 18.07.2013
@@ -21,6 +24,7 @@ namespace Repository
         /// <returns>Student</returns>
         public int AddStudent(Student student)
         {
+            
             int rollNumber = 0;
             rollNumber = studentDataService.AddStudent(student);
             return rollNumber;

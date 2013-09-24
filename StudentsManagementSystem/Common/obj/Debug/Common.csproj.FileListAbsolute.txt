@@ -25,5 +25,4 @@ D:\SMS\StudentsManagementSystem\Common\bin\Debug\Common.dll
 D:\SMS\StudentsManagementSystem\Common\bin\Debug\Common.pdb
 D:\SMS\StudentsManagementSystem\Common\obj\Debug\Common.dll
 D:\SMS\StudentsManagementSystem\Common\obj\Debug\Common.pdb
-D:\SMS\StudentsManagementSystem\Common\bin\Debug\Common.dll.CodeAnalysisLog.xml
-D:\SMS\StudentsManagementSystem\Common\bin\Debug\Common.dll.lastcodeanalysissucceeded
+D:\SMS\StudentsManagementSystem\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache

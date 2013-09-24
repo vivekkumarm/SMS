@@ -416,5 +416,3 @@ D:\SMS\StudentsManagementSystem\StudentsManagementSystem\bin\StudentDataLayer.pd
 D:\SMS\StudentsManagementSystem\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.csprojResolveAssemblyReference.cache
 D:\SMS\StudentsManagementSystem\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.dll
 D:\SMS\StudentsManagementSystem\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.pdb
-D:\SMS\StudentsManagementSystem\StudentsManagementSystem\bin\StudentsManagementSystem.dll.CodeAnalysisLog.xml
-D:\SMS\StudentsManagementSystem\StudentsManagementSystem\bin\StudentsManagementSystem.dll.lastcodeanalysissucceeded
